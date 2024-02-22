@@ -13,3 +13,5 @@ O jogo possui oito fases, que incluem:
 - Movimentação do personagem principal nas direções: direita, esquerda, cima e baixo.
 - Movimentação dos inimigos nas direções: direita e esquerda.
 - Aumento da dificuldade à medida que as fases avançam.
+
+Para visualização do projeto é necessario utilizar a plataforma p5.js.
