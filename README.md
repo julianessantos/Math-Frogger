@@ -6,6 +6,8 @@ JULIANE DA SILVA SANTOS (Matrícula 20200075288)
 
 O projeto envolve a criação de um jogo utilizando a biblioteca P5.js em JavaScript. Para a parte visual do jogo, foram empregadas ferramentas de desenho, como o Aseprite, e de edição de imagem, como o Photoshop. Inspirado no jogo Frogger, este jogo educativo utiliza fundamentos matemáticos para estimular crianças e jovens. No jogo, o jogador controla um sapinho que precisa desviar dos obstáculos na rua e resolver o cálculo matemático apresentado em uma caixa de pergunta.
 
+![Tela Inicial](imagens/tela_inicial.png)
+
 O jogo possui oito fases, que incluem:
 
 - Detecção de colisão entre os personagens.
@@ -15,3 +17,5 @@ O jogo possui oito fases, que incluem:
 - Aumento da dificuldade à medida que as fases avançam.
 
 Para visualização do projeto é necessario utilizar a plataforma p5.js.
+
+![Primeira Fase](imagens/primeira_fase.png)
